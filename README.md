@@ -1,4 +1,4 @@
-# lexicon.html
+
 Ingiliz tili mini app
 <!DOCTYPE html>
 <html lang="uz">
